@@ -10,11 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "express": "^4.21.1",
     "mongodb": "^6.10.0",
+    "mongoose": "^8.8.1",
     "mongosh": "^2.3.3",
     "node": "^18.20.5",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "socket.io": "^4.8.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",
